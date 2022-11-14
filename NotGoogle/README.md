@@ -1,4 +1,4 @@
-## Relevance Based Search of Aesops Tales Using a Suffix Tree
+## Relevance Based Search of Aesops Fables Using a Suffix Tree
 
 The Program Implements Ukkonen's algorithm to create a Generalized Suffix Tree.
 The Tree is used to search for strings in each of the tales and returns the most relevant tales/documents.
