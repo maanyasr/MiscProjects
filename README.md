@@ -9,7 +9,6 @@ Here's the list of projects you'll find in this repo:
 4. NotGoogle - Relevance based Search Engine using Suffix Trees (C++)
 
 Here's a list of other projects that I have worked on:
-1. 
-2. 
-3. 
-4. 
+1. Blackjack – Race to 21 – Developed an interavtive single-player game of BlackJack. (C++)
+2. Burglar Alarm System - Devised a real time burglar alarm system using a passive infra-red (PIR) sensor. Used a GSM module to link with the alarm to send an SMS alert to a pre registered number when the alarm is set off.
+3. TT Ball Tracking Robot using Arduino - Built a robot that detects and retrieves a TT Ball using Image Processing. 
